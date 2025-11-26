@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot | SQL | AWS | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL+%7C+React;DSA+Problem+Solver+%7C+System+Design+Learner;Open+Source+Contributor+%7C+Cricket+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL+%7C+React;DSA+Problem+Solver+%7C+System+Design+Learner;Open+Source+Contributor+%7C" />
 </p>
 
 ---
