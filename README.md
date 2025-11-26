@@ -52,15 +52,12 @@ Full Stack Developer with hands-on experience in backend development using Java,
 
 ---
 
-### 🏥 [Hospital Management System](https://github.com/Amantiwarie/Hospital-Management-System)
+### 🏥 [Invoice Billing System ](https://github.com/amantiwarie/pdfautoinvoice)
 > **Stack:** Java, Spring Boot, MySQL, HTML/CSS  
-> Built a role-based secure platform for managing doctors, patients, room allocation, and staff logins with reporting.
+> Built a complete invoice generation and billing management system with automated PDF creation, customer record handling, itemized billing, and database-backed storage. The application supports seamless invoice generation, real-time calculation, and a clean UI for easier billing operations.
 
 ---
 
-### 💰 [Splitwise LLD](https://github.com/Amantiwarie/SplitwiseLLD)
-> **Stack:** Java (OOP Design)  
-> Implemented core logic for expense splitting using modular object-oriented architecture.
 
 ## 📈 Development Metrics
 <h3 align="center">🔥 Current GitHub Streak:</h3>
