@@ -34,8 +34,8 @@ public class AmanTiwari {
 ```
 
 - 🏗️ Led an **architecture overhaul** of legacy modules into a clean, layered Spring Boot codebase
-- ⚡ Shipped **20+ secure REST APIs** for search, booking, payment and user management
-- 🐞 Resolved **60+ production & QA defects** tracked through Jira in Agile/Scrum sprints
+- ⚡ Shipped **40+ secure REST APIs** for search, booking, payment and user management
+- 🐞 Resolved **80+ production & QA defects** tracked through Jira in Agile/Scrum sprints
 - 🗄️ Tuned complex **PostgreSQL** queries and owned schema migrations for high-traffic tables
 - 🚀 Ship with **Jenkins CI/CD**, **Docker**, **AWS EC2** and **Nginx**
 
@@ -92,12 +92,6 @@ public class AmanTiwari {
 
 ---
 
-## 💼 Experience
-
-**Associate Software Engineer — Yiron Technologies** · *Apr 2026 – Present* · Delhi
-> Client project: **TravelWings** — online flight & hotel booking platform
->
-> Architecture redesign · 20+ REST APIs · 60+ Jira defects resolved · PostgreSQL tuning · Jenkins/AWS releases
 
 ---
 
