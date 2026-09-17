@@ -25,8 +25,7 @@
 ```java
 public class AmanTiwari {
     String role       = "Associate Software Engineer @ Yiron Technologies";
-    String location   = "Delhi, India";
-    String currently  = "Building TravelWings, an online travel booking platform";
+    String location   = "Noida, India";
     String[] focus    = {"Spring Boot", "Microservices", "System Design", "Cloud & DevOps"};
     String education  = "B.Tech CSE, Techno India University (CGPA 8.34)";
     String funFact    = "Captained my university cricket team to a championship 🏏";
