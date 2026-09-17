@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aman%20Tiwari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Associate%20Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aman%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Associate%20Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=620&lines=Java+%7C+Spring+Boot+%7C+Microservices;Building+secure%2C+scalable+REST+APIs;Kafka+%7C+Redis+%7C+PostgreSQL+%7C+AWS;450%2B+DSA+problems+solved+on+LeetCode" alt="Typing SVG" />
 
