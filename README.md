@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aman%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Associate%20Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=620&lines=Java+%7C+Spring+Boot+%7C+Microservices;Building+secure%2C+scalable+REST+APIs;Kafka+%7C+Redis+%7C+PostgreSQL+%7C+AWS;450%2B+DSA+problems+solved+on+LeetCode" alt="Typing SVG" />
+<h1>Hi 👋, I'm Aman Tiwari</h1>
+<h3>Associate Software Engineer · Java Full Stack Developer</h3>
+
+<p><b>Java</b> · <b>Spring Boot</b> · <b>Microservices</b> · <b>Kafka</b> · <b>Redis</b> · <b>PostgreSQL</b> · <b>AWS</b></p>
 
 <p>
   <a href="https://linkedin.com/in/amantiwarie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
